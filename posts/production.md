@@ -1,5 +1,5 @@
 ---
-title: 'production pages with next.js with api query'
+title: 'Production pages with next.js with api query'
 date: '2021-04-13' 
 ---
 
